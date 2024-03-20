@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import { expertiseData } from "../Data/data";
 import CountUp from "react-countup";
 import { Link } from "react-router-dom";
 import useUserData from "./useUserData";
