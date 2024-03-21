@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from "react";
-import * as Unicons from "@iconscout/react-unicons";
+import React from "react";
 import { Link } from "react-router-dom";
 import useUserData from "./useUserData";
 export default function Footer() {

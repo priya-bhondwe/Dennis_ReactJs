@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import { TypeAnimation } from "react-type-animation";
 import { Link } from "react-router-dom";
 import useUserData from "./useUserData";

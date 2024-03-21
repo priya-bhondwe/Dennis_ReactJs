@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import useUserData from "./useUserData";
 
 export default function Experience() {

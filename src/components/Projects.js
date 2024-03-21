@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { Link as Link2 } from "react-router-dom";
 import * as Unicons from "@iconscout/react-unicons";
 import Lightbox from "react-18-image-lightbox";

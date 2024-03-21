@@ -1,4 +1,3 @@
-// useUserData.js
 import { useState, useEffect } from "react";
 
 const useUserData = () => {
